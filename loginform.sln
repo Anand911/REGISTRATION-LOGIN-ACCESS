@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginform", "loginform\loginform.csproj", "{3564C1CB-B0DF-4004-BFB2-B62EB2840AD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3564C1CB-B0DF-4004-BFB2-B62EB2840AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3564C1CB-B0DF-4004-BFB2-B62EB2840AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3564C1CB-B0DF-4004-BFB2-B62EB2840AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3564C1CB-B0DF-4004-BFB2-B62EB2840AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047BD5C8-5D33-49E4-933F-00344D1B9D10}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\bin\Debug\loginform.exe.config
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\bin\Debug\loginform.exe
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\bin\Debug\loginform.pdb
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\bin\Debug\Guna.UI2.dll
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.csprojAssemblyReference.cache
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.Properties.Resources.resources
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.csproj.GenerateResource.cache
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.csproj.CoreCompileInputs.cache
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.csproj.CopyComplete
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.exe
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.pdb
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.register.resources
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.login.resources
+C:\Users\91701\source\repos\DBMS_PRO\loginform\loginform\obj\Debug\loginform.dashboard.resources
